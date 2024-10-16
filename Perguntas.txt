@@ -1,4 +1,9 @@
 1 - O que são operações de “Commit”, “Push” e “Pop” efetuadas num repositório?
+
+Res.: De forma simples, podemos dizer que o commit é a ação de salvar as alterações do código, 
+push é a ação de enviar as alterações para o repositório e pop é a ação de desfazer as alterações.
+
+
 2 – Quais sáo as vantagens de usar Branchs num repositório git?
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em
 que consistem e como podem ser resolvidos esses conflitos?
