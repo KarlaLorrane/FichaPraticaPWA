@@ -18,3 +18,6 @@ Como resolver? Abrir o ficheiro em questão e resolver manualmente as alteraçõ
 
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
 diferenças entre eles?
+
+Res.: Clone é uma cópia exata do repositório original, enquanto o fork é uma cópia do repositório original, 
+mas que pode ser alterada sem afetar o repositório original.
