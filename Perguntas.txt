@@ -12,5 +12,9 @@ manter o código principal sempre funcional.
 
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em
 que consistem e como podem ser resolvidos esses conflitos?
+
+Res.: Conflitos são situações onde o git não consegue resolver sozinho, pois existem alterações no mesmo ficheiro em linhas diferentes.
+Como resolver? Abrir o ficheiro em questão e resolver manualmente as alterações, escolhendo qual alteração deve ser mantida.
+
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
 diferenças entre eles?
